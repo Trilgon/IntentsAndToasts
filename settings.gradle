@@ -1,0 +1,4 @@
+include ':intentfilter'
+include ':multiatcivity'
+include ':app'
+rootProject.name = "PracticeTwo"
